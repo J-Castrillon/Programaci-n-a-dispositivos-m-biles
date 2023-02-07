@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Calculadora</string>
+    <string name="numeroUno">n1</string>
+    <string name="numeroDos">n2</string>
+    <string name="multiplicador">mul</string>
+    <string name="calcular">Calcular</string>
+</resources>
